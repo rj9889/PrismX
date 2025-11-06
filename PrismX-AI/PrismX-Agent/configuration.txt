@@ -1,0 +1,15 @@
+Configuration Prerequisites
+
+Install the required packages for Sheets and Spread operations:
+pip install gspread
+
+Install the Gemini Generative AI SDK dependency:
+pip install google-generativeai
+
+Create a Google Cloud Service Account and Copy the Service Account email and grant Editor Access to this Service Account inside the target Google Sheet.
+
+Generate a Service Account key, download the service_account.json file, and store this credential in the PrismX Service Account directory.
+
+Enable the Gemini API, generate the API Key, and add the API Key to the MCP configuration. This key will support embeddings and vector search operations.
+
+Retrieve the Google Sheet ID and update this Sheet ID value inside the MCP project configuration directory.
