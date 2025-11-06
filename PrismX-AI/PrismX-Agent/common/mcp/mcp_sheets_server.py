@@ -39,7 +39,7 @@ from mcp.server import Server, NotificationOptions
 from mcp.types import Tool
 
 # ---------- Configuration ----------
-SHEET_ID = "1xuBznN7IRgsMkmGRT4lTFf2yry4caqgITdvzZfFXIJM"
+SHEET_ID = ""
 CREDS_PATH = "/home/student_02_9ba65c2ab9da/PrismX-AI/PrismX-Agent/common/mcp/service_account.json"
 
 SCOPES = [
