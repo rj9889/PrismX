@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2025-11-04T22:42:02.825043",
+    "feedback": "VS Code activity should always go under Integration. Please apply it."
+  },
+  {
+    "timestamp": "2025-11-05T00:54:22.361619",
+    "feedback": "The top technologies card needs sorting by hours descending by default. It feels random right now."
+  },
+  {
+    "timestamp": "2025-11-05T00:54:34.554187",
+    "feedback": "Feedback: make the trend visualization show last 4 weeks comparison instead of only single window. Execs want directional view."
+  },
+  {
+    "timestamp": "2025-11-05T00:54:46.854112",
+    "feedback": "Governance: if confidence < 0.72 on Dev work, flag those slices automatically next run."
+  },
+  {
+    "timestamp": "2025-11-05T00:55:03.695943",
+    "feedback": "Learning: increase weight of \u2018Data Engineering\u2019 category by +0.25 because this team is high signal for impact value."
+  },
+  {
+    "timestamp": "2025-11-05T02:52:10.972489",
+    "feedback": "The top technologies card needs sorting by hours descending by default. It feels random right now."
+  },
+  {
+    "timestamp": "2025-11-05T02:52:37.309338",
+    "feedback": "Make the trend visualization show last 4 weeks comparison instead of only single window. Execs want directional view."
+  },
+  {
+    "timestamp": "2025-11-06T00:25:14.548899",
+    "feedback": "When I ask for employee list, always add Mr. before employee name."
+  },
+  {
+    "timestamp": "2025-11-06T00:28:06.953800",
+    "feedback": "When I ask for list of employees, always give me only Name and role."
+  },
+  {
+    "timestamp": "2025-11-06T00:29:47.051487",
+    "feedback": "When I ask for a list of associates, always give me full-time employees, not contractors."
+  },
+  {
+    "timestamp": "2025-11-06T00:34:01.001876",
+    "feedback": "When I ask for any list related to a worker, please always append their role."
+  }
+]
