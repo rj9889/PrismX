@@ -122,7 +122,7 @@ def _fallback_hash_embedding(text: str, dim: int = 128) -> List[float]:
 def _embed_texts(texts: List[str]) -> Tuple[List[List[float]], str]:
     import google.generativeai as genai
     import math, os
-    genai.configure(api_key="AIzaSyDwR3CPap8we4N6JaO6vC0aZKIpDpj3698")
+    genai.configure(api_key="")
     resp = genai.embed_content(
         model="models/text-embedding-004",
         content=texts
