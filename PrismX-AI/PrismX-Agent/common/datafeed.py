@@ -1,7 +1,7 @@
 import os, csv, io, gspread
 from google.oauth2.service_account import Credentials
 
-SHEET_ID = "1xuBznN7IRgsMkmGRT4lTFf2yry4caqgITdvzZfFXIJM"
+SHEET_ID = ""
 KEY_PATH = "/home/student_02_8a37cde7a746/adk_mcp_tools/google_maps_mcp_agent/common/mcp/service_account.json"
 
 SCOPES = [

@@ -26,7 +26,7 @@ MCP_SHEETS = MCPToolset(
             args=[MCP_PY_PATH],
             env={
                 "GOOGLE_APPLICATION_CREDENTIALS": "/home/student_02_9ba65c2ab9da/PrismX-AI/PrismX-Agent/common/mcp/service_account.json",
-                "SHEET_ID": "1xuBznN7IRgsMkmGRT4lTFf2yry4caqgITdvzZfFXIJM",
+                "SHEET_ID": "",
                 # Optional: put API key if you have it; otherwise local fallback embedding will be used
                 # "GENAI_API_KEY": "YOUR_API_KEY",
             },
